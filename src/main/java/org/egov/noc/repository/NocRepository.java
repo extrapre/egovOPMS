@@ -222,7 +222,7 @@ public class NocRepository {
 								jsonArrayResult.add(jsonObject22);
 							}
 						}
-						jsonObject.put(CommonConstants.REMARKS, jsonArrayResult);*/
+						jsonObject.put(CommonConstants.REMARKS, jsonArrayResult);
 					}
 					jsonArray.add(jsonObject);
 				}
