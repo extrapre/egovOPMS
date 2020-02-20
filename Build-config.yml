@@ -1,0 +1,9 @@
+config:
+   - name: core-services/egov-opms
+     build:
+     - work-dir: egov-opms
+       dockerfile: build/maven/Dockerfile
+       image-name: egov-opms
+
+
+#This configuration should be used in the main Build-config.yml 
