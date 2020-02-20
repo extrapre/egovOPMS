@@ -125,7 +125,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>noc-service</finalName>
+					<finalName>egov-opms</finalName>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
